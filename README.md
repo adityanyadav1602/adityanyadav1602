@@ -1,4 +1,4 @@
-# Hi, I\'m Aditya N. Yadav 👋
+# Hi, I\'m Aditya Narayan Yadav 👋
 
 [![Email](https://img.shields.io/badge/Email-aditya.n.yadav.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.n.yadav.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
