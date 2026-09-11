@@ -3,6 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-aditya.n.yadav.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.n.yadav.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-narayanyadav/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityanyadav1602)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ijaXkxLARy/)
 
 ---
 
@@ -44,4 +45,5 @@ I am a **Software & Backend Engineer** specializing in Python, RESTful API archi
 
 - 📧 **Email:** [aditya.n.yadav.dev@gmail.com](mailto:aditya.n.yadav.dev@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/aditya-narayanyadav](https://www.linkedin.com/in/aditya-narayanyadav/)
+- 🧩 **LeetCode:** [leetcode.com/u/ijaXkxLARy](https://leetcode.com/u/ijaXkxLARy/)
 - 📍 **Location:** India (Open to Remote & Relocation)
